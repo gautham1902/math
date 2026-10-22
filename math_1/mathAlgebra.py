@@ -3,7 +3,7 @@ from IPython.display import display,Math
 
 x = sym.symbols('x')
 
-expr = 2*x + 4 - 9
+expr = 2*x + 4 -  9
 
 sym.solve(expr) #display tp print solve output
 
